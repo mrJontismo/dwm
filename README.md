@@ -2,6 +2,6 @@
 My WIP dwm build
 
 ## information
-* OS - Arch Linux
+* OS - OpenBSD
 * Font - JetBrains Mono
 * Terminal - st
