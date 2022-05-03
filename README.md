@@ -2,6 +2,7 @@
 My WIP dwm build
 
 ## information
-* OS - OpenBSD
+* Current distro - OpenBSD
 * Font - JetBrains Mono
 * Terminal - st
+* Bar - dwm-blocks
