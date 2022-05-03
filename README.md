@@ -6,3 +6,5 @@ My WIP dwm build
 * Font - JetBrains Mono
 * Terminal - st
 * Bar - dwm-blocks
+
+I know this setup looks a lot like Luke Smith's setup, but is it my fault that he has a good taste? :)
